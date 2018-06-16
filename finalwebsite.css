@@ -1,0 +1,139 @@
+/* Stylesheet for finalizing website. */
+
+body {
+    /*background-image: url("giraffe.jpg");
+    background-repeat: no-repeat, repeat;*/
+    background-color: whitesmoke;
+    max-width: 1024px;
+}
+
+/*#pagebanner {
+    font-family: 'learning_curveregular';
+    font-size: xx-large;
+    color:lightcoral;
+    background-color: antiquewhite;
+    border-style: double;
+    border-radius: 90px;
+    padding: 1px;
+    text-align: center;
+    letter-spacing: 10px;
+    font-weight: bolder;
+    border-image-outset: 10px;
+
+}*/
+#pagebanner{font-family: 'callie_handregular'; 
+ text-align: center;
+font-size: xx-large;
+
+
+}
+
+#mytext {
+    font-family: 'learning_curveregular';
+    font-size: x-large;
+    margin: auto;
+    position: relative;/*absolute;*/
+    background-color: antiquewhite;
+    /*top: 170px;
+    left: 920px;*/
+    z-index: 30;
+    opacity: 0.8;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    width: 500px;
+    height: 500px;
+    /*overflow: scroll;*/
+}
+
+#myindextext {
+    font-family: 'learning_curveregular';
+    font-size: x-large;
+    margin: auto;
+    position: absolute;
+    background-color: antiquewhite;
+    top: 170px;
+    left: 700px;
+    z-index: 30;
+    opacity: 0.8;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    width: 300px;
+    height: 500px;
+    /*overflow: scroll;*/
+}
+
+#my_contact {
+    font-family: 'learning_curveregular';
+    font-size: x-large;
+    position: absolute;
+    background-color: antiquewhite;
+    top: 170px;
+    /*left: 920px;*/
+    z-index: 30;
+    opacity: 0.8;
+    color: black;
+    font-weight: bold;
+    padding: 10px;
+    width: 500px;
+    height: 500px;
+    overflow: scroll;
+}
+
+
+#menu { 
+    font-family:'cafe___breweryregular';
+    font-size: x-large;
+    text-align: center;
+    padding: 20px;
+}
+
+ #menu a:link {
+    text-decoration: none;
+    color: black;
+
+}
+
+#menu a:hover {
+    text-decoration: underline;
+    color: white;
+
+}
+
+#menu a:active {
+    text-decoration: underline;
+    color: black;
+}
+#menu a:visited{
+ text-decoration: underline;
+color: lightpink;
+}
+
+table {
+    border: 4;
+    border-color: cornsilk;
+}
+
+.input_form{
+    width:100%;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid Black;
+    background-color: inherit;
+    margin-top: 10%;
+}
+#submit_button{
+    width: 120px;
+    height: 60px;
+    font-size: 24px;
+    color: skyblue;
+    background-color: aliceblue;
+    border-color: skyblue;
+}
+.link_table{
+    font-size: 32px;
+    text-decoration: none;
+    color: black;
+    font-family: 'callie_handregular'
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>lab assignment 13 -aleona lund</title>
+    <link rel="stylesheet" type="text/css" href="fontlearningcurve/stylesheet.css"/>
+    <link rel="stylesheet" type="text/css" href="fonttmthatwaynormal/stylesheet.css"/>
+    <link rel="stylesheet" type="text/css" href="finalwebsite.css"/>
+    
+    
+    
+    </head>
+    <body>
+<div id="pagebanner">
+The Lona Blog
+        </div>
+    <div id="menu"><a href="index.html">HOME</a> |
+   <a href="finalabout.html">ABOUT</a> |
+    <a href="finalshop.html"> SHOP</a> |   
+           
+        
+        
+        </div>
+        
+        
+<img src="me.jpg" width="500" height="500" alt="aleona" id="aleona"/>
+<div id="mytext">
+for this lab i decided to keep my zebra watercolor image.<br>
+ painting is a fun thing i enjoy doing a lot of the time, it also helps me relax and get things off my mind<br>
+     there will be no other photos to display right now but maybe later <br>
+   this will be the last text on this line<br>
+    Actually Scientists aren't sure, but many theories center on their utility as some form of camouflage. The patterns may make it difficult for predators to identify a single animal from a running herd and distort distance at dawn and dusk. Or they may dissuade insects that recognize only large areas of single-colored fur or act as a kind of natural sunscreen. Because of their uniqueness, stripes may also help zebras recognize one another.
+</div>
+        
+        
+    
+    
+    
+    
+        <div id="link">the fonts used for this lab assignment were called "learnig curve" font and "tm that way normal" from <a href="http://www.fontfreak.com/"> fontfreak.com</a></div>  
+    </body>
+
+</html>
